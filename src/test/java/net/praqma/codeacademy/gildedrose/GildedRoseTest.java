@@ -1,5 +1,5 @@
 package net.praqma.codeacademy.gildedrose;
-
+//Jeg har skrevet en kommentar
 import static org.junit.Assert.*;
 
 import org.junit.Test;
